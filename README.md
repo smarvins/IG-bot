@@ -1,5 +1,5 @@
 # IG-bot
-A simple bot that automates likes through various hashtags
+A simple bot that automates likes through various hashtags 
 
 ## How to use
 It's quite easy, all you need to do is:
@@ -7,7 +7,7 @@ It's quite easy, all you need to do is:
 
 2. Open the project and navigate towards the IGbot.py file. (remember you should be in the virtual environment)
 
-3. Scroll to the profile section and add your credentials.
+3. Scroll to the profile section and add your credentials. (That is your password and username)
 
 4. Scroll some more to the hashtags to add specific ones or just use the defaults I placed there.
 
