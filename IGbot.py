@@ -4,14 +4,11 @@ import time
 import random
 import sys
 
-
-
 def print_same_line(text):
     sys.stdout.write('\r')
     sys.stdout.flush()
     sys.stdout.write(text)
     sys.stdout.flush()
-
 
 class InstagramBot:
     def __init__(self, username, password):
