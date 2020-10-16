@@ -23,13 +23,12 @@ It's quite easy, all you need to do is:
 - Geckodriver
 
 ### Developer
-**Steve Wachira:)**
+**Steve Marvins:)**
 
 ### Contact info
 
-- [Email](www.stevewachiradev@gmail.com) me:)
-- or find me on [LinkedIn](www.linkedin.com/in/steve-wachira-dev)
-- Phone Number -> **+254714091244**
+- [Email](www.stevemarvins.dev@gmail.com) me:)
+- or find me on [LinkedIn](www.linkedin.com/in/stevemarvins-dev)
 
 ##### If you are experiencing any issues or you having problems working around the bot, please don't be afraid to contact me:) I'll be there to help out any way I can so that you can have the best experience (^^)/
 
